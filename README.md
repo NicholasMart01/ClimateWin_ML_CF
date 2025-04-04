@@ -3,6 +3,8 @@ ClimateWins is a nonprofit looking to predict future extreme weather events in m
 
 # Methods
 
+Both supervised and unsupervised machine learning was done on two data sets. One containing weather information such as cloud cover and the other containing personal opinions on whether the day was pleasent or not. 
+
 ## Supervised Machine learning was done using
 Opitimization through the Gradient Descent method
 
